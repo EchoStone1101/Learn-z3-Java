@@ -1,4 +1,4 @@
-# Lean-z3-Java
+# Learn-z3-Java
 Collection of experimental code for working with z3 Java API.
 All classes are readily executable in VSCode, with z3 Java binding installed. See https://github.com/Z3Prover/z3.
 
